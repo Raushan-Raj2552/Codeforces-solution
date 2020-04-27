@@ -1,0 +1,6 @@
+a = str(input())
+b = a.count('1')
+c = a.count('2')
+d = a.count('3')
+f = ('1+'*b)+('2+'*c)+('3+'*d)
+print(f[:-1])
