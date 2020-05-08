@@ -1,2 +1,2 @@
 # Codeforces-solution
-Solutions of problems of completed contests of CODEFORCES
+Solution of the problems of completed contests of CODEFORCES
