@@ -1,0 +1,5 @@
+n = int(input())
+ai = map(int,input().split())
+lsai = list(ai)
+slsai = sum(lsai)
+print(max(lsai)*n-slsai)
