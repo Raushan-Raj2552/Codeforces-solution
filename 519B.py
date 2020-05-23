@@ -1,0 +1,10 @@
+a = int(input())
+
+f = map(int,input().split())
+s = map(int,input().split())
+t = map(int,input().split())
+a = sum(f)
+b = sum(s)
+c = sum(t)
+print(a-b)
+print(b-c)
